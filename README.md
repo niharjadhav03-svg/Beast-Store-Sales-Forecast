@@ -44,3 +44,16 @@ Improve decision-making using real-time insights
 Identify profitable and loss-making areas
 Optimize inventory and marketing strategies
 Enhance overall business performance
+
+🙋‍♂️ About Me
+
+Nihar Nitin Jadhav
+📍 Pune, India
+📧 niharjadhav03@gmail.com
+
+⭐ Support
+
+If you found this project useful:
+
+⭐ Star this repository
+Share feedback or suggestions
